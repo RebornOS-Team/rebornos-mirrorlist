@@ -4,6 +4,14 @@
 # Location: Global
 Server = https://repo.rebornos.org/RebornOS/
 
+# Name: SoulHarsh007 US Mirror
+# Location: Austria, US West
+Server = https://us-mnz.soulharsh007.dev/rebornos/RebornOS/
+
+# Name: SoulHarsh007 NL Mirror
+# Location: Netherlands, EU Central
+Server = https://nl-ams-rebornos.soulharsh007.dev/RebornOS/
+
 # Name: SoulHarsh007 EU Mirror
 # Location: Austria, EU Central
 Server = https://at-vie-rebornos.soulharsh007.dev/RebornOS/
